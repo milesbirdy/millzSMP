@@ -40,5 +40,7 @@ Feel free to ask me or just google since you can see all the mods on the modpack
 I am very familiar with Create mod, somewhat Cobblemon, and not much at all with mystical agriculture
 
 # Quick Notes
-1. If you are having trouble running, first step is for sure to disable shaders. Go to options, video settings, shader packs, and click disable!
+1. If you are having trouble running, first step is for sure to disable shaders. Go to options, video settings, shader packs, and click disable! Or if you want to try it out, on complementary reimagined you can go to shader pack settings and try different profiles for lower settings. 
 2. Check your keybinds! Some important ones like vein miner at the bottom and open backpack inventory might be unbounded. If you're not sure what something is, then you might not need it!
+3. Get familiar with JEI. It is on the right side of the screen when you open inventory. Left click for how to get an item, right click for how to use it. You can also bookmark and move crafting recipes with it too!
+
