@@ -27,13 +27,13 @@ porker.mc.gg
 
 There are the following major mods:
 
-> Cobblemon
-> Create
+Cobblemon
+Create
 
 Plus some supplemental mods:
-> Journey Map
-> Vein Miner
-> Mystical Agriculture
+Journey Map
+Vein Miner
+Mystical Agriculture
 
 There are tons of addtl mods too that add functionality, aesthetics, and adventures
 Feel free to ask me or just google since you can see all the mods on the modpack
