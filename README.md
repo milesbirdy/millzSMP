@@ -12,7 +12,7 @@ The newer versions have an import modpack via code setting which we will be usin
 Once you open curseforge, go to 'Minecraft' click '+ Import' at the top and paste the most recent code. 
 
 The most recent code is:
-# ukuhdDKI 
+ukuhdDKI 
 
 Then, run click play and it should work. If it doesnt then there is probably something wrong with regular minecraft so youll have to deal with that first
 
